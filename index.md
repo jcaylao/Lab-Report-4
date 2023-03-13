@@ -44,6 +44,10 @@ I reran the tester after making the necessary changes, i used the `<up>` key 3 t
 
 ## **Step 9**
 
-Keys pressed:
+Keys pressed: `<enter>, <enter>`
 
+
+
+![Image](https://github.com/jcaylao/Lab-Report-4/blob/main/step9.JPG?raw=true)
+![Image](https://github.com/jcaylao/Lab-Report-4/blob/main/step9-2.JPG?raw=true)
 
