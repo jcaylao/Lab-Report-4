@@ -28,9 +28,15 @@ I used the `cd` command to change directories into the lab7 directory in order t
 
 Keys pressed: `<down>x43 <right>x12 <backspace> <2> <ctrl+o> <enter> <ctrl+x> <y>`
 
+![Image](https://github.com/jcaylao/Lab-Report-4/blob/main/step7-1.JPG?raw=true)
+
+![Image](https://github.com/jcaylao/Lab-Report-4/blob/main/step7-2.JPG?raw=true)
+
 ## **Step 8**
 
 Keys pressed: `<up><up><up><enter>, <up><up><up><enter>`
+
+![Image](https://github.com/jcaylao/Lab-Report-4/blob/main/step8.JPG?raw=true)
 
 ## **Step 9**
 
