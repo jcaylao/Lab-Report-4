@@ -26,4 +26,14 @@ I used the `cd` command to change directories into the lab7 directory in order t
 
 ## **Step 7**
 
-Keys pressed: `<down>x43 <right>x12 <backspace> <2> <ctrl+x>`
+Keys pressed: `<down>x43 <right>x12 <backspace> <2> <ctrl+o> <enter> <ctrl+x> <y>`
+
+## **Step 8**
+
+Keys pressed: `<up><up><up><enter>, <up><up><up><enter>`
+
+## **Step 9**
+
+Keys pressed:
+
+
