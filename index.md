@@ -46,8 +46,13 @@ I reran the tester after making the necessary changes, i used the `<up>` key 3 t
 
 Keys pressed: `<enter>, <enter>`
 
-
+The `git commit` command captures a snapshot of the current version of the project. The `-a` option allows me to target the specific file that modifications were made in and the `-m` option is a shortcut to write the commit message in the command rather than prompting to open the text editor to write the message. The `git push` command allowed me to push the changes that I made to main, which would be saved to my repository in github.
 
 ![Image](https://github.com/jcaylao/Lab-Report-4/blob/main/step9.JPG?raw=true)
 ![Image](https://github.com/jcaylao/Lab-Report-4/blob/main/step9-2.JPG?raw=true)
 
+## **Sources**
+
+https://linuxize.com/post/how-to-use-nano-text-editor/
+
+https://www.atlassian.com/git/tutorials/saving-changes/git-commit
